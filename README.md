@@ -26,8 +26,8 @@
 
 
 
-- 🔭 I’m currently working on Python automation
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on React ts and AWS
+- 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on FrontEnd && IA projects
 - 🤔 I’m looking for help with React Development
 - 📫 How to reach me: monfortdev@gmail.com
