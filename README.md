@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on Python and SciKit-Learn
 - 🌱 I’m currently learning TensorFlow
-- 👯 I’m looking to collaborate on ML && IA projects
+- 👯 I’m looking to collaborate on ML && AI projects
 - 📫 How to reach me: monfortdev@gmail.com 
 
 
