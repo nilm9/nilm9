@@ -23,42 +23,24 @@ As a self-taught enthusiast, I have explored a wide range of topics, from machin
 
 ---
 
-### 🚀 Professional Work Experience
 
-**Machine Learning and Data Engineer - Avantcab, Spain** | *May 2023 - February 2024*
-- Developed a taxi service allocation algorithm using greedy and genetic algorithms; built a full-stack scheduling app with Vue.js and Python/Flask.
-- Automated traffic agent functions, created optimal taxi route generation system, and used Docker for consistent deployment; developed a flight delay predictor for improved scheduling.
+### 📚 Top Projects
 
-**Frontend Developer - DATOMA, Spain** | *January 2023 - September 2023* [DATOMA](https://datoma.cloud)
-- Led development of a web application for metabolic data processing using Vue.js and PrimeVue; integrated AWS APIs for backend services.
-- Enhanced user interaction and engagement through seamless user authentication with AWS Cognito.
-
-**Freelance Web Developer - Home, Spain** | *January 2021 - January 2023*
-- Designed, developed, and maintained diverse web applications for various clients; used React, Google Firestore, JavaScript, HTML, CSS, and WordPress.
-- Delivered aesthetically pleasing, highly functional applications tailored to client requirements and preferences.
-
----
-
-### 📚 Academic Work Experience
-
-**Student Grade Predictor - UDE, Germany** | *November 2023 - March 2024*
+**Student Grade Predictor**
 - Created a full-stack web application with visual analytics dashboards and a MongoDB database for monitoring student performance.
 - Developed a predictive model using Lasso Regression and integrated it into a seamless Vue.js front-end and Python/Flask back-end.
 - **Project Link:** [Student Grade Predictor](https://github.com/nilm9/Student_Grade_Predictor)
 
-**Sleep Tracker System - UDE, Germany** | *February 2024 - Present*
+**Sleep Tracker System**
 - Built an advanced sleep tracker with hardware/software integration and MQTT data streaming; designed a dual-database system using MongoDB and InfluxDB.
 - Deployed an LSTM machine learning model for sleep stage prediction and developed a notification system for optimal wake-up times.
 - **Project Link:** [HeartBeatDevice](https://github.com/nilm9/HeartBeatDevice)
 
-**LightFM Recommender System - UDE, Germany** | *November 2023 - December 2023*
+**LightFM Recommender System**
 - Developed a movie recommendation system, created user-item interaction matrix, and optimized computational efficiency with a sparse matrix.
 - Trained and evaluated the LightFM model using WARP loss, generating top movie recommendations for users.
 - **Project Link:** [LightFM Recommender System](https://github.com/nilm9/LightFM_Recommender_System)
 
-**Quick Frame Startup - Home, Germany** | *January 2024- Present*
-- Created a video generation app for social media with machine learning algorithms for peak sound detection and computer vision for key segment identification.
-- Built a robust front-end with Vue.js and back-end with Python/Flask; deployed on Digital Ocean for scalability and enhanced user experience with automated editing features.
 
 ---
 
